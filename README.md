@@ -1,6 +1,3 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=CoreNion&count_private=true&show_icons=true&hide=stars&theme=yeblu)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=CoreNion&theme=yeblu&layout=compact)
-
 # Certificate Fingerprint
 ## SHA-1
 ```7E:11:10:30:4D:33:25:EB:EF:E4:BF:A1:78:2F:5F:41:CD:36:8F:23```
