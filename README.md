@@ -1,5 +1,7 @@
 # Hi, there :3 
-19 years old. Student.
+Student Programmer.
 
-Interested in Web (Nuxt.js / Vue) / Flutter.
+Interested in Web Development.
+
+(Next,js, React, etc...)
 
